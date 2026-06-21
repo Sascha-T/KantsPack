@@ -11,8 +11,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Install go
-        run: apt install go
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: 1.21
       - name: Install packwiz
         run: go install github.com/packwiz/packwiz@latest
       - name: Build Modrinth
