@@ -1,8 +1,17 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/blank.yml"
+hash = "1b9e75981f71982c246fc800bf5b31873b39d0195cbfc15bb95b3d2e2492bfa9"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "39ec3cac812f819f45b88a70f6b83eb8c0e6007e9272bbccfb3f364b421d2631"
+metafile = true
+
+[[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "3d8f918c52e27d4c640f78c67c0a51a2ddbe4e3703c149e8ed9461f43bd5fedd"
 metafile = true
 
 [[files]]
@@ -61,6 +70,11 @@ hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
 metafile = true
 
 [[files]]
+file = "mods/dcintegration.pw.toml"
+hash = "a832de493f31251061455e1a473471d115ff875400ddeae78e35ae8c7868c3c1"
+metafile = true
+
+[[files]]
 file = "mods/distant-horizons.pw.toml"
 hash = "563e9267e594bec6a5c32843b34ac8a188ebc8f09e1936d700a9db185cba394b"
 metafile = true
@@ -71,8 +85,8 @@ hash = "4fbe037c1ec3570be84f68e075c3e8293b15f64dda22bca4735924705fb38236"
 metafile = true
 
 [[files]]
-file = "mods/forgified-fabric-api.pw.toml"
-hash = "e20b20d55b74dc8b3e9c2ff353b9f8788b3221b647cb32845fb53781a0b4684b"
+file = "mods/ferritecore.pw.toml"
+hash = "6ba7ad7fe7d344e2314a37a64e95fb3755113a601d49121d2605dca887bde8e4"
 metafile = true
 
 [[files]]
@@ -86,8 +100,23 @@ hash = "d068154533d9a999acbb4008f7c33d307b583d2e6db7122a69fc02921ffdb411"
 metafile = true
 
 [[files]]
+file = "mods/lithium.pw.toml"
+hash = "b299d17f014f9d2c14fb152db9b55c8eb6c2b5acaae20661bd53cbac08c3c6de"
+metafile = true
+
+[[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "a5171f661eb50b84152c265c1458698394b484225c75db459016738f761beb08"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "983d6ab9d9a7d40031f1789f5ae018cccb889832ac8ce741df60a9d8e5f42817"
+metafile = true
+
+[[files]]
+file = "mods/moonrise.pw.toml"
+hash = "96bc0f62d29516b729764123742e6fa07a78920e881c2f47b401d0a5fd89a397"
 metafile = true
 
 [[files]]
@@ -143,6 +172,11 @@ metafile = true
 [[files]]
 file = "mods/sable.pw.toml"
 hash = "56c47f4f4732d86a144c8c86af80411238c3ea74f6b96b0bc5174d2f20073a98"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "ba0fbc01b797b664021580151aa626f3816bdf4420136cc424761df4d05c9d55"
 metafile = true
 
 [[files]]
@@ -209,3 +243,7 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "75226d6628d07c4f19e9adcc02f0b36a7f50bbf9071c0971cbacd04b4d4f4799"
 metafile = true
+
+[[files]]
+file = "unsup.ini"
+hash = "d795914b2789a66989dfe88f659d23d8dd81338d0076ae78632afa7821f80edf"
