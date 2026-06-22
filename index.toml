@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".github/workflows/blank.yml"
-hash = "0d6003cccc40664603143c7ca3e0e55ba14d8106a4f1d27c80b32f87bf43d0f6"
+hash = "72b191b19c0a93e4607b32fb721ed070003b5d53b0ade5f12713a2e05b6d08b9"
 
 [[files]]
 file = "mods/accessories.pw.toml"
@@ -246,4 +246,4 @@ metafile = true
 
 [[files]]
 file = "unsup.ini"
-hash = "d795914b2789a66989dfe88f659d23d8dd81338d0076ae78632afa7821f80edf"
+hash = "a0d82d9f44cec17c4bc38f500544ad3c88360eb5e38bc46f70c9947149c1e0db"
