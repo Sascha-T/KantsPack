@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".github/workflows/blank.yml"
-hash = "1b9e75981f71982c246fc800bf5b31873b39d0195cbfc15bb95b3d2e2492bfa9"
+hash = "0d6003cccc40664603143c7ca3e0e55ba14d8106a4f1d27c80b32f87bf43d0f6"
 
 [[files]]
 file = "mods/accessories.pw.toml"
